@@ -2,11 +2,16 @@
 
 👋 I am Miguelangel, a Jr. Web Developer, I learn new things daily, I am a Udemy student and I have experience with freelance work, I am self-taught, I specialize more in front-end, I have worked on projects with HTML5, CCS, JS, SASS, GULP, BOOSTRAP, WordPress and Drupal
 
-🌱I am currently learning...
-👯 I'm looking to collaborate on new side projects.
-📫 How to contact me: miguelangelvera69@gmail.com
-😄 Pronouns: he/he
-⚡ Fun fact: I'm also a Gamer
+- 🌱I am currently learning...
+
+- 👯 I'm looking to collaborate on new side projects.
+
+- 📫 How to contact me: miguelangelvera69@gmail.com
+
+- 😄 Pronouns: he/he
+
+- ⚡ Fun fact: I'm also a Gamer
+
 <!--
 **Kindexvra/Kindexvra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
